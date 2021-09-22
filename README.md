@@ -4,7 +4,7 @@ Contents of this folder are:
 
 1) This README.me file.
 4) A "Develop" folder which contains the assignment, which is title "index.html" and it's associated "assets" folder.
-5) These files are all hosted on a repository and the finished assignment can be accessed directly at "https://aarkaiser.github.io/AarKaiser/assignment03/Develop/" on  a browswer.
+5) These files are all hosted on a repository and the finished assignment can be accessed directly at "https://aarkaiser.github.io/assignment03/Develop/" on  a browswer.
 6) The Github repo for the assignment is available at "https://github.com/AarKaiser/assignment03"
 
 Website Mockup:
