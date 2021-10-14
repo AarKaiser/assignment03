@@ -7,6 +7,12 @@ Contents of this folder are:
 5) These files are all hosted on a repository and the finished assignment can be accessed directly at "https://aarkaiser.github.io/password_generator/Develop/" on  a browswer.
 6) The Github repo for the assignment is available at "https://github.com/AarKaiser/password_generator"
 
+Technologies Used:
+
+1. HTML
+2. CSS
+3. Javascript
+
 Website Mockup:
 
 <img width="1435" alt="Screen Shot 2021-09-19 at 8 48 14 PM" src="https://user-images.githubusercontent.com/87316518/133948589-e8a2e0eb-282d-41a0-bc1a-ebcec892900f.png">
